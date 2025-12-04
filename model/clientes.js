@@ -52,5 +52,5 @@ export const clientes = [
         empresa: "Smart Systems",
         estado: "pendiente",
         fechaRegistro: "2024-11-15"
-    }
+    },
 ];
